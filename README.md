@@ -1,1 +1,11 @@
 # Software-Architecture-Design-Cs411
+
+This project is software architecture design for "ProDers App for Headmaster of Schools" app.
+
+first report;
+This report includes PROBLEM STATEMENT, THE SOFTWARE ARCHITECTURE DESIGN PROCESS, 
+REQUIREMENTS ANALYSIS, TECHNICAL PROBLEM ANALYSIS, DOMAIN ANALYSIS AND STRUCTURE OF CONCEPT. 
+
+final report;
+This report includes MODULE VIEWS (USES, DECOMPOSITION ETC.), COMPONENT AND CONNECTOR VIEWS,
+ALLOCATION VIEWS, EVALUATION OF THE SOFTWARE ARCHITECTURE. 
